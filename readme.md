@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Barrie Freyre
+# Hi 👋, My name is Barrie Freyre
 
 ## 🚀 Frontend Engineer | Angular & React Specialist | 10+ Years Building Scalable Web Apps | Passionate About UX, Performance & Clean Code
 
