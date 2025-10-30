@@ -1,19 +1,19 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Barrie Freyre
 
-## 🚀 Frontend Engineer | Angular & React Specialist | 10+ Years Building Scalable, High-Performance Web Apps | Passionate About UX & Clean Code
+## 🚀 Frontend Engineer | Angular & React Specialist | 10+ Years Building Scalable Web Apps | Passionate About UX, Performance & Clean Code
 
-Frontend Engineer with 10+ years of experience in web development, focusing on building and maintaining scalable, high-performance applications using Angular, React, and Node.js.
+I’m a Frontend Engineer with over 10 years of experience building and maintaining scalable, high-performance web applications using Angular, React, and Node.js.
 
-I specialize in:
+I enjoy crafting modern, responsive interfaces and writing clean, maintainable code that delivers great user experiences. Throughout my career, I’ve contributed to SaaS platforms, migrated legacy systems, and helped teams deliver features efficiently in agile environments.
 
-✅ Developing modern user interfaces and implementing new features
-✅ Maintaining and refactoring legacy codebases
-✅ Collaborating effectively within agile teams using Jira and Git workflows
-✅ Continuously learning and improving code quality and user experience
+What I Do Best
 
-I have contributed to SaaS platforms, participating in migrating legacy applications and implementing key product features. I’m passionate about writing clean, maintainable code, optimizing for performance, and being a dependable team player.
+✅ Build modern, user-focused interfaces with Angular and React
+✅ Refactor and maintain legacy codebases for better performance and scalability
+✅ Collaborate closely in agile teams using Git and Jira
+✅ Continuously learn, improve, and raise the quality of code and UX
 
-Currently open to Frontend opportunities—remote preferred.
+💼 Currently open to new Frontend Engineer opportunities — remote preferred.
 
 - 🌍 I'm based in Lima, Peru
 - 🖥️ See my Challenges at [Frontend Mentor](http://www.frontendmentor.io/profile/barriedirk)
